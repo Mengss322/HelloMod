@@ -22,7 +22,7 @@ public class Main {
         Player entity = event.getEntity();
         Level level = entity.level();
 
-        System.out.println("Minecraft 启动!!! 🤪");
+        System.out.println("Minecraft start!!! 🤪");
     }
 
 }
